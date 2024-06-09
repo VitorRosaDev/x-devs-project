@@ -90,7 +90,7 @@ body {
 
 .cartao .descricao {
     background-color: rgba(255, 255, 255, 0.8);
-    border-bottom-left-radius:10px;
+    border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
 
@@ -111,6 +111,10 @@ body {
 
 .cartao.fundo-1 {
     background: url(../imagens/fundo-1.jpg) no-repeat;
+}
+
+.cartao.fundo-2 {
+    background: url(../imagens/fundo-2.jpg) no-repeat;
 }
 
 .cartao.fundo-3 {
